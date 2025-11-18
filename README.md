@@ -40,16 +40,15 @@
 
 | 이름 | 역할 |
 | :---: | :---: |
-| **차은우** | 프로젝트 총괄 (PM), 데이터 분석 |
-| **변우석** | 프론트엔드 개발 (Streamlit), UI/UX 디자인 |
-| **(팀원)** | 백엔드, 데이터베이스 관리 |
-| **(팀원)** | 데이터 수집 및 전처리 |
+| **한재승** | 기술 서치, 데이터처리 |
+| **윤훈** | 데이터분석, 데이터처리 |
+| **gemini**| 기초 틀 생성 |
 
 ---
 
 ## 🌐 외부 URL
 
-- **Streamlit Cloud 배포 링크**: [https://your-streamlit-app-url.streamlit.app/](https://your-streamlit-app-url.streamlit.app/)
+- **Streamlit Cloud 배포 링크**:https://app-eyepwf65synzhmfx2ghmlr.streamlit.app/
   > 위 링크를 통해 배포된 웹 애플리케이션을 직접 사용해볼 수 있습니다.
 
 ---
@@ -57,7 +56,7 @@
 ## 💻 코드 Push
 
 본 프로젝트의 모든 코드는 GitHub를 통해 관리되고 있습니다. 아래 명령어를 통해 코드를 복제할 수 있습니다.
-
+https://github.com/yunhoon0206/streamlit
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/yunhoon0206/streamlit.git
 ```
