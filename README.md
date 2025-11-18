@@ -53,6 +53,9 @@
 
 - **Streamlit Cloud 배포 링크**:https://app-eyepwf65synzhmfx2ghmlr.streamlit.app/
   > 위 링크를 통해 배포된 웹 애플리케이션을 직접 사용해볼 수 있습니다.
+  > 
+- **데이터원본링크** https://www.data.go.kr/data/15100070/standard.do
+  > 위 링크를 통해 원본데이터를 확인하실수있습니다.
 
 ---
 
