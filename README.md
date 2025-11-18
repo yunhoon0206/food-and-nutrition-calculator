@@ -36,7 +36,7 @@
 
 [시연 영상][https://youtu.be/XE7vqvR-7BE]
 > 위 이미지를 클릭하면 시연 동영상으로 이동합니다.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XE7vqvR-7BE?si=Dleaq4iTUpqXAr2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video src="https://youtu.be/XE7vqvR-7BE" width="800" controls></video>
 
 ---
 
