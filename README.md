@@ -31,7 +31,7 @@
 
 ## 🎥 시연 동영상
 
-[![시연 영상](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![시연 영상][https://youtu.be/3hIVy-TKewM]
 > 위 이미지를 클릭하면 시연 동영상으로 이동합니다. (유튜브 링크를 넣어주세요)
 
 ---
