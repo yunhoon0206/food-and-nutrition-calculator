@@ -36,6 +36,13 @@
 
 [시연 영상][https://youtu.be/XE7vqvR-7BE]
 > 위 이미지를 클릭하면 시연 동영상으로 이동합니다.
+> <iframe 
+    width="560" 
+    height="315" 
+    src="https://youtu.be/XE7vqvR-7BE" 
+    frameborder="0" 
+    allowfullscreen
+></iframe>
 
 ---
 
