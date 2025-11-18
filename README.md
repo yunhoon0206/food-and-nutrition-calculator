@@ -36,7 +36,7 @@
 
 [시연 영상][https://youtu.be/XE7vqvR-7BE]
 > 위 이미지를 클릭하면 시연 동영상으로 이동합니다.
-<video src="https://youtu.be/XE7vqvR-7BE" width="800" controls></video>
+https://github.com/user-attachments/assets/098a8071-8630-413f-8c99-d8bb1798f9b9
 
 ---
 
